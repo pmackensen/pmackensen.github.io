@@ -11,54 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in IT-Security Networks and Systems, Ruhr University Bochum, *October 2020 - December 2022*
+* B.S. in Applied Computer Science, Ruhr University Bochum, *January 2017 - February 2020*
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Chair for Security and Privacy of Ubiqituous Systems**
+  * Bochum, *since December 2022*
+  * PhD student @ Ruhr University Bochum
+  * Embedded Firmware Analysis.
+  * Hardware Security.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Max Planck Institute for Security and Privacy**
+  * Bochum, *October 2020 - December 2022*
+  * Student assistant
+  * Security analysis of FPGAs with focus on vulnerabilities.
+  * Analysis of hardware netlists to reconstruct their underlying logic.
+  * Implementation of (Post-Quantum-)Cryptography schemes in Jasmin.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **emproof GmbH**
+  * Bochum, *September 2019 - September 2020*
+  * Student assistant
+  * Research in the field of Anti-Debug and Anti-Emulation techniques for embedded systems.
+
+* **Chair fo System Security**
+  * Bochum, *March 2019 - August 2019*
+  * Student assistant, Ruhr University Bochum
+  * Research on devirtualization techniques and analysis of virtual machine obfuscation with focus on VMProtect.
+
+* **G-Data**
+  * Bochum, *November 2017 - February 2019*
+  * Student assistant
+  * Development & Research in the field of ransomwares.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Programming Languages**: C, C++, ARM/Thumb Assembly, x86/x64 Assembly, Python
+* **Tools**: Ghidra, IDA Pro, GDB, ADB, Frida, Unicorn, Capstone, Keystone, Z3, Git
+* **Interests**: Reverse Engineering, Programming, Formal Methods, Cryptography
+* **Languages**: German (Mother tongue), English (Fluent)
