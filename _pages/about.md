@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student at the chair for [Security and Privacy of Ubiquitous Systems](https://informatik.rub.de/ubisys/) at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/en) under the supervision of [Veelasha Moonsamy](https://veelasha.org/). My research focuses on the methods used to analyze and secure  firmware running on embedded Internet of Things (IoT) devices.
+I am a Ph.D student at the chair for [Security and Privacy of Ubiquitous Systems](https://informatik.rub.de/ubisys/) at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/en) under the supervision of [Veelasha Moonsamy](https://veelasha.org/). My research focuses on methods for analyzing and securing firmware running on Internet of Things (IoT) devices. Specifically, I am interested in enhancing state-of-the-art static analysis methods and understanding their limitations. I am also interested in the practical side of things, where I examine real-world IoT devices and dissect them to understand their inner workings and security mechanisms. Finally, I explore the intersection of software and hardware to understand, for instance, logic vulnerabilities that manifest in software but can only be triggered through hardware.
 
 # Publications
 
