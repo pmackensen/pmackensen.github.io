@@ -13,16 +13,16 @@ I am a third-year Ph.D student at the chair for [Security and Privacy of Ubiquit
 
 * **[Kintsugi: Secure Hotpatching for Code-Shadowing Real-Time Embedded Systems](https://www.usenix.org/system/files/usenixsecurity25-mackensen.pdf)**<br>
   *Philipp Mackensen, Christian Niesler, Roberto Blanco, Lucas Davi, Veelasha Moonsamy*<br>
-  Accepted at the 34th USENIX Security Symposium 2025
+  Accepted at the **34th USENIX Security Symposium 2025**
 
 * **[Spatial-Domain Wireless Jamming with Reconfigurable Intelligent Surfaces](https://www.ndss-symposium.org/wp-content/uploads/2025-440-paper.pdf)**<br>
   *Philipp Mackensen, Paul Staat, Stefan Roth, Aydin Sezgin, Christof Paar, Veelasha Moonsamy*<br>
-  Accepted at the Network and Distributed System Security (NDSS) Symposium 2025<br>
+  Accepted at the **Network and Distributed System Security (NDSS) Symposium 2025**<br>
   [\[Slides\]](https://www.ndss-symposium.org/wp-content/uploads/3B-f0440-mackensen.pdf) [\[Video\]](https://www.youtube.com/watch?v=AgWX4uXTRvA&feature=youtu.be)
 
 * **[Vulnerability, Where Art Thou? An Investigation of Vulnerability Management in Android Smartphone Chipsets](https://www.ndss-symposium.org/wp-content/uploads/2025-1161-paper.pdf)**<br>
   *Daniel Klischies, Philipp Mackensen, Veelasha Moonsamy*<br>
-  Accepted at the Network and Distributed System Security (NDSS) Symposium 2025
+  Accepted at the **Network and Distributed System Security (NDSS) Symposium 2025**
 
 ---
 
