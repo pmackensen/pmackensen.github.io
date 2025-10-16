@@ -29,14 +29,14 @@ let setTheme = (theme) => {
     localStorage.getItem("theme") ||
     $("html").attr("data-theme") ||
     browserPref;
-
+  /*
   if (use_theme === "dark") {
     $("html").attr("data-theme", "dark");
     $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
   } else if (use_theme === "light") {
     $("html").removeAttr("data-theme");
     $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
-  }
+  }*/
 };
 
 // Toggle the theme manually
@@ -91,7 +91,7 @@ $(document).ready(function () {
   const scssMastheadHeight = 70;  // pixels, from the current theme (e.g., /_sass/theme/_default.scss)
 
   // If the user hasn't chosen a theme, follow the OS preference
-  setTheme();
+  setTheme("dark");
   window.matchMedia('(prefers-color-scheme: dark)')
         .addEventListener("change", (e) => {
           if (!localStorage.getItem("theme")) {
@@ -100,7 +100,7 @@ $(document).ready(function () {
         });
 
   // Enable the theme toggle
-  $('#theme-toggle').on('click', toggleTheme);
+  // $('#theme-toggle').on('click', toggleTheme);
 
   // Enable the sticky footer
   var bumpIt = function () {
