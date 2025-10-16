@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in IT-Security Networks and Systems, Ruhr University Bochum, *October 2020 - December 2022*
-* B.S. in Applied Computer Science, Ruhr University Bochum, *January 2017 - February 2020*
+* M.Sc. in IT-Security Networks and Systems, Ruhr University Bochum, *October 2020 - December 2022*
+* B.Sc. in Applied Computer Science, Ruhr University Bochum, *January 2017 - February 2020*
 
 Work experience
 ======
