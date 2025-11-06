@@ -18,7 +18,8 @@ I am a third-year Ph.D student at the chair for [Security and Privacy of Ubiquit
 * **[Spatial-Domain Wireless Jamming with Reconfigurable Intelligent Surfaces](https://www.ndss-symposium.org/wp-content/uploads/2025-440-paper.pdf)**<br>
   *Philipp Mackensen, Paul Staat, Stefan Roth, Aydin Sezgin, Christof Paar, Veelasha Moonsamy*<br>
   Accepted at the **Network and Distributed System Security (NDSS) Symposium 2025**<br>
-  [\[Slides\]](https://www.ndss-symposium.org/wp-content/uploads/3B-f0440-mackensen.pdf) [\[Video\]](https://www.youtube.com/watch?v=AgWX4uXTRvA&feature=youtu.be)
+  [\[Slides\]](https://www.ndss-symposium.org/wp-content/uploads/3B-f0440-mackensen.pdf) [\[Video\]](https://www.youtube.com/watch?v=AgWX4uXTRvA&feature=youtu.be)<br>
+  Media: [\[RUB\]](https://news.rub.de/english/press-releases/2025-02-24-cybercriminals-doorway-researchers-reveal-new-method-attacking-wi-fi-networks) [\[Interesting Engineering\]](https://interestingengineering.com/innovation/intelligent-reflective-targeted-network-jamming) [\[hackster.io\]](https://www.hackster.io/news/jam-it-all-a6158cdcf4f5)
 
 * **[Vulnerability, Where Art Thou? An Investigation of Vulnerability Management in Android Smartphone Chipsets](https://www.ndss-symposium.org/wp-content/uploads/2025-1161-paper.pdf)**<br>
   *Daniel Klischies, Philipp Mackensen, Veelasha Moonsamy*<br>
