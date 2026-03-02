@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D student at the chair for [Security and Privacy of Ubiquitous Systems](https://informatik.rub.de/ubisys/) at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/en) under the supervision of [Veelasha Moonsamy](https://veelasha.org/). My research focuses on methods for analyzing and securing firmware running on Internet of Things (IoT) devices. Specifically, I am interested in enhancing state-of-the-art static analysis methods and understanding their limitations. I am also interested in the practical side of things, where I examine real-world IoT devices and dissect them to understand their inner workings and security mechanisms. Finally, I explore the intersection of software and hardware to understand, for instance, logic vulnerabilities that manifest in software but can only be triggered through hardware.
+I am a third-year PhD student at the chair for [Security and Privacy of Ubiquitous Systems](https://informatik.rub.de/ubisys/) at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/en) under the supervision of [Veelasha Moonsamy](https://veelasha.org/). My research primarily focuses on methods for analyzing and securing firmware running on Internet of Things (IoT) devices. This includes applying static analysis to firmware to test security properties and identify vulnerabilities, as well as examining real-world IoT devices to dissect and understand their inner workings and security mechanisms. I also explore the intersection of software and hardware to understand, for instance, logic vulnerabilities that manifest in software but can only be triggered through physical attacks.
+
+---
 
 # Publications
 
@@ -24,6 +26,12 @@ I am a third-year Ph.D student at the chair for [Security and Privacy of Ubiquit
 * **[Vulnerability, Where Art Thou? An Investigation of Vulnerability Management in Android Smartphone Chipsets](https://www.ndss-symposium.org/wp-content/uploads/2025-1161-paper.pdf)**<br>
   *Daniel Klischies, Philipp Mackensen, Veelasha Moonsamy*<br>
   Accepted at the **Network and Distributed System Security (NDSS) Symposium 2025**
+
+---
+
+# Service
+* *19th European Workshop on Systems Security (EuroSec 2026)*
+* *The Network and Distributed System Security (NDSS) Symposium 2025* (External Reviewer)
 
 ---
 
