@@ -30,6 +30,7 @@ I am a third-year PhD student at the chair for [Security and Privacy of Ubiquito
 ---
 
 # Service
+* *23rd Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA '26)* (External Reviewer)
 * *19th European Workshop on Systems Security (EuroSec 2026)*
 * *The Network and Distributed System Security (NDSS) Symposium 2025* (External Reviewer)
 
